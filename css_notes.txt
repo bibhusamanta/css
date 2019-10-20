@@ -1,0 +1,19 @@
+css stands for cascading style sheet
+it is used to design the html program
+types - internal,external,inline css
+INTERNAL CSS (used inside head tag , it is used to design a single page)
+<html>
+<head>
+  <style>
+  p{ backgraound-color:red; 
+  }
+  body{ background-color:pink;
+  }
+  </style>
+</head>
+<body>
+Internal Css <br>
+<p>HTML</p>
+<p>CSS</p>
+</body>
+</html>
