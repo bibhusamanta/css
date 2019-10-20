@@ -16,6 +16,13 @@ Internal Css <br>
 <p>HTML</p>
 <p>CSS</p><br>
 INLINE CSS(it is used to change the design of any particular command)
-<p style="background-color=green;">JAVA</p>
+<p style="background-color=green;">JAVA</p></br>
+EXTERNAL CSS
+in external css you make the designs in other file and link your html file with that file. leys say the file name is my.css.
+now write the following codes inside the style tag
+<link rel="stylesheet" type="text/css" href="my.css">
+to give same design to a group of tags use comma
+now write the following codes inside the style tag
+p,h1,h2{design;}
 </body>
 </html>
