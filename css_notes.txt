@@ -14,6 +14,8 @@ INTERNAL CSS (used inside head tag , it is used to design a single page)
 <body>
 Internal Css <br>
 <p>HTML</p>
-<p>CSS</p>
+<p>CSS</p><br>
+INLINE CSS(it is used to change the design of any particular command)
+<p style="background-color=green;">JAVA</p>
 </body>
 </html>
